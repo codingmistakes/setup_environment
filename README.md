@@ -16,19 +16,19 @@ Demo applications are implemented in CSharp (16) and Java (2). Visual Studio Com
 Here's a simple example on how to import .NET applications into your VS environment. 
 
 <p>First click on "Clone or check out code".</p>
-<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_1.png" width="300px" />
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_1.png" width="450px" />
 
 <p>Then, enter the related repository's location and select a local path. In this example BuggyExtensionCheck application is used as an example.</p>
-<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_2.png" width="300px" />
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_2.png" width="450px" />
 
 <p>After the import, open it using File->Open->Project/Solution.</p>
-<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_3.png" width="300px" />
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_3.png" width="450px" />
 
 <p>Choose the local path given when importing the repository above.</p>
-<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_4.png" width="300px" />
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_4.png" width="450px" />
 
 <p>Build and run the project.</p>
-<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_5.png" width="300px" />
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019_5.png" width="450px" />
 
 # Importing Java Applications
 
