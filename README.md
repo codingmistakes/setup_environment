@@ -33,3 +33,39 @@ Here's a simple example on how to import .NET applications into your VS environm
 # Importing Java Applications
 
 Here's a simple example on how to import Java applications into your STS environment. 
+
+<p>First select or create a new workspace.</p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_1.png" width="450px" />
+
+<p>Click on Import projects...</p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_2.png" width="450px" />
+
+<p>Type git and select Projects from Git.</p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_3.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_4.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_5.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_6.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_7.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_8.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_9.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_10.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_11.png" width="450px" />
+
+<p></p>
+<img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4_12.png" width="450px" />
