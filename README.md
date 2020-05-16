@@ -6,7 +6,7 @@ Demo applications are implemented in CSharp (16) and Java (2). Visual Studio Com
 
 <table>
   <tr>
-    <td><img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019.png" width="400px" /></td>
-    <td><img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4.png" width="400px" /></td>
+    <td><img src="https://github.com/codingmistakes/setup_environment/blob/master/VS2019.png" width="300px" /></td>
+    <td><img src="https://github.com/codingmistakes/setup_environment/blob/master/STS4.png" width="300px" /></td>
   </tr>
 </table>
